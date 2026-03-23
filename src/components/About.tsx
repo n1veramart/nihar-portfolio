@@ -6,11 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer with 4+ years of experience building scalable web
-          applications using React.js, Angular, Next.js, Node.js, and NestJS. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          Nihar Patil is a manager and personal assistant focused on keeping
+          partnerships, schedules, and day-to-day operations running smoothly.
+          With a calm, proactive approach, Nihar supports sponsor relations,
+          content planning, talent coordination, and executive assistance with a
+          sharp eye for detail.
         </p>
       </div>
     </div>
